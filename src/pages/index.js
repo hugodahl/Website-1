@@ -26,7 +26,7 @@ const IndexPage = () => (
 				<div className="container">
 					<h1>Welcome to the Comfy Corner!</h1>
 					<p className="subtitle">Hello! I'm Instafluff®, the Comfiest Coder and Mug Chef on Twitch and we are all about getting more comfy with ourselves and the world around us.</p>
-					<p className="subtitle">We gather on <a href="https://twitch.tv/instafluff">Twitch</a> every Wed/Thu/Fri (WTF) and hang out in <a href="http://discord.instafluff.tv">Discord</a> outside of that schedule.</p>
+					<p className="subtitle">We gather on <a href="https://twitch.tv/instafluff">Twitch</a> every Wed/Thu/Fri/Sat (WTFs) and hang out in <a href="http://discord.instafluff.tv">Discord</a> outside of that schedule.</p>
 				</div>
 			</div>
 		</section>
@@ -37,7 +37,7 @@ const IndexPage = () => (
 						<div className="column is-4">
 							<h2>Coding Cafe</h2>
 							<p>Come and relax in the Comfiest Corner of Twitch</p>
-							<p>Wed/Thu/Fri (spells WTF!) at 8am PST</p>
+							<p>Wed/Thu/Fri/Sat (spells WTFs!) at 9am PDT</p>
 							<a className="button is-danger is-rounded" style={buttonStyle} href={ExternalURLs.Twitch} target="_blank" rel="noopener noreferrer">
 								Visit Instafluff's Channel
 							</a>
